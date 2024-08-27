@@ -1,0 +1,31 @@
+Início
+    1. Despertar
+         Ouvir o alarme tocar
+         Desligar o alarme
+
+    2. Levantar da cama
+        Sentar na cama
+        Colocar os pés no chão
+        Levantar-se da cama
+
+    3. Higiene pessoal
+         Ir ao banheiro
+         Escovar os dentes
+         Lavar o rosto
+
+    4. Vestir-se
+        Escolher as roupas
+        Vestir as roupas
+
+    5. Café da manhã
+        Ir à cozinha
+        Preparar o café da manhã
+        Comer o café da manhã
+
+    6. Preparar para sair
+         Pegar a bolsa ou mochila
+         Verificar se todos os itens necessários estão dentro
+         Colocar os sapatos
+         Sair de casa
+
+Fim
